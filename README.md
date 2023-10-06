@@ -1,5 +1,8 @@
 # Create Invoice («Faktura anlegen»)
 
+Link to INTEGRA master repository  
+[INTEGRA](https://github.com/Integra-SUPERB/INTEGRA)
+
 ## Goal of this repository
 
 The repository "Create Invoice" is focused on the creation of invoices (Faktura) within the ERP system. It encompasses various billing documents, including invoices, credits, debits, cancellations, and more. This repository offers the essential tools and interfaces to streamline the invoicing process, ensuring the efficient generation and management of invoices in line with the business's financial demands.
